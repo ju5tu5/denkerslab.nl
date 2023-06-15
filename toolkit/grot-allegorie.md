@@ -30,7 +30,7 @@ De gevangenen zijn gewend geraakt aan hun beperkte realiteit en beschouwen de sc
 ## Instrument
 
 Gebruik de allegorie van de grot om een hedendaagse situatie te analyseren.
-
+ 
 1. **Identificeer de gevangenen** Beschrijf de mensen die vast zitten in beperkte denkpatronen.
 
 2. **Beschrijf de schaduwen** Dit zijn de denkpatronen die de gevangenen aannemen als zijnde werkelijkheid. Het omvat de waarneming en alle illusies die de gevangenen bezigen.
